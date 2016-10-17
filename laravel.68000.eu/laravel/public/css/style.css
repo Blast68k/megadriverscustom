@@ -1,0 +1,9 @@
+body {
+	background:url('../img/md_custom_bg.png');
+}
+
+.content {
+	background:rgba(255,255,255,0.3);
+	padding:25px;
+	border-radius: 5px;
+}
