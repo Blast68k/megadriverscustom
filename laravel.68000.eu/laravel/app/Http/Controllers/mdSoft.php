@@ -11,7 +11,7 @@ use DB;
 //protected $imgpath = '';
 //protected $imgpath_noway = '<img src="../resources/assets/img/covers_th/th_no_way.png"/>'; 
 //protected $result = '';
-
+//test
 
 class mdSoft extends Controller
 {
